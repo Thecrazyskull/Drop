@@ -1,8 +1,14 @@
 { 
 "categories": 
 	[ 
+	    {
+	        "category": "Default"
+	        "icon":     "ic_launcher"
+	        "url":      ""
+	    },
 		{
-			"category": "Natural"
+			"category": "Landscapes"
+			"icon":     "
 		},
 		{
 			"category": "Android"
@@ -11,7 +17,7 @@
 			"category": "Exodus"
 		},
 		{
-			"category": "Cityscapes"
+			"category": "Urban"
 		},
 		{
 			"category": "Black and white"
@@ -24,6 +30,9 @@
 		},
 		{
 			"category": "Weather"
+		},
+		{   
+		    "category": "Custom ROMs"
 		}
 	]
 }
