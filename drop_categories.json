@@ -1,0 +1,29 @@
+{ 
+"categories": 
+	[ 
+		{
+			"category": "Natural"
+		},
+		{
+			"category": "Android"
+		},
+		{
+			"category": "Exodus"
+		},
+		{
+			"category": "Cityscapes"
+		},
+		{
+			"category": "Black and white"
+		},
+		{
+			"category": "Abstract"
+		},
+		{
+			"category": "Space"
+		},
+		{
+			"category": "Weather"
+		}
+	]
+}
