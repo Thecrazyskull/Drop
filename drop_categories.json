@@ -4,65 +4,65 @@
         {
             "category": "Dave's favorites",
             "object":   "default",
-            "icon":     "ic_launcher",
+            "icon":     "",
             "url":      "",
-            "number":   ""
+            "number":   "1"
         },
         {
             "category": "Abstract",
             "object":   "abstract",
             "icon":     "",
-            "url":      "",
-            "number":   ""
+            "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/abstract.json",
+            "number":   "2"
         },
         {
             "category": "Android",
             "object":   "android",
             "icon":     "",
-            "url":      "",
-            "number":   ""
+            "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/android.json",
+            "number":   "3"
         },
         {
             "category": "Black and white",
             "object":   "black_and_white",
             "icon":     "",
-            "url":      "",
-            "number":   ""
-        },
-        {
-            "category": "Custom ROMs",
-            "object":   "custom_roms",
-            "icon":     "",
-            "url":      "",
-            "number":   ""
+            "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/black_and_white.json",
+            "number":   "4"
         },
         {
             "category": "Landscapes",
             "object":   "landscapes",
             "icon":     "",
+            "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/landscapes.json",
+            "number":   "5"
+        },
+        {
+            "category": "miscellaneous",
+            "object":   "miscellaneous",
+            "icon":     "",
             "url":      "",
-            "number":   ""
+            "number":   "6"
         },
         {
             "category": "Space",
             "object":   "space",
             "icon":     "",
-            "url":      "",
-            "number":   ""
+            "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/space.json",
+            "number":   "6"
         },
         {
             "category": "Urban",
             "object":   "urban",
             "icon":     "",
-            "url":      "",
-            "number":   ""
+            "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/urban.json",
+            "number":   "7"
         },
         {
             "category": "Weather",
             "object":   "weather",
             "icon":     "",
-            "url":      "",
-            "number":   ""
+            "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/weather.json",
+            "number":   "8"
         }
     ]
 }
