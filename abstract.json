@@ -2,21 +2,21 @@
 "category_title": 
 	[ 
 	    {
-	        "paper":    "Glass cubes",
+	        "paper":    "Glass Cubes",
 	        "author":   "",
 	        "preview":  "",
 	        "url":      "http://i.imgur.com/18eugAP.jpg",
 	        "number":   "1"
 	    },
 	    {
-	        "paper":    "Silk stripe",
+	        "paper":    "Silk Stripe",
 	        "author":   "",
 	        "preview":  "",
 	        "url":      "http://i.imgur.com/MEEzTT2.jpg",
 	        "number":   "3"
 	    },
 	    {
-	        "paper":    "Metal grate",
+	        "paper":    "Metal Grate",
 	        "author":   "",
 	        "preview":  "",
 	        "url":      "http://i.imgur.com/BI4v68Y.jpg",
@@ -37,28 +37,28 @@
 	        "number":   "5"
 	    },
 	    {
-	        "paper":    "Red fog",
+	        "paper":    "Red Fog",
 	        "author":   "",
 	        "preview":  "",
 	        "url":      "http://i.imgur.com/v959L7T.jpg",
 	        "number":   "6"
 	    },
 	    {
-	        "paper":    "Out of focus 1",
+	        "paper":    "Out of Focus 1",
 	        "author":   "",
 	        "preview":  "",
 	        "url":      "http://i.imgur.com/EAgd57M.jpg",
 	        "number":   "7"
 	    },
 	    {
-	        "paper":    "Out of focus 2",
+	        "paper":    "Out of Focus 2",
 	        "author":   "",
 	        "preview":  "",
 	        "url":      "http://i.imgur.com/Ru8ztwv.jpg",
 	        "number":   "8"
 	    },
 	    {
-	        "paper":    "Blue wave",
+	        "paper":    "Blue Wave",
 	        "author":   "",
 	        "preview":  "",
 	        "url":      "http://i.imgur.com/42PxuqS.jpg",
@@ -70,6 +70,13 @@
 	        "preview":  "",
 	        "url":      "http://i.imgur.com/0MySgm3.jpg",
 	        "number":   "10"
+	    },
+	    {
+	        "paper":    "Orange Chroma",
+	        "author":   "",
+	        "preview":  "",
+	        "url":      "http://i.imgur.com/kqjBI3S.jpg",
+	        "number":   "11"
 	    }
 	]
 }
