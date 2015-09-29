@@ -2,55 +2,64 @@
 "categories": 
 	[ 
 	    {
-	        "category": "Default"
+	        "category": "Dave's favorites"
+	        "object":   "default"
 	        "icon":     "ic_launcher"
 	        "url":      ""
 	        "number":   ""
 	    },
 	    {
 			"category": "Abstract"
+			"object":   "abstract"
 			"icon":     ""
 			"url":      ""
 			"number":   ""
 		},
 	    {
 			"category": "Android"
+			"object":   "android"
 			"icon":     ""
 			"url":      ""
 			"number":   ""
 		},
 		{
 			"category": "Black and white"
+			"object":   "black_and_white"
 			"icon":     ""
 			"url":      ""
 			"number":   ""
 		},
 	    {   
 		    "category": "Custom ROMs"
+		    "object":   "custom_roms"
 		    "icon":     ""
 			"url":      ""
 			"number":   ""
 		},
 		{
 			"category": "Landscapes"
+			"object"    "landscapes"
 			"icon":     ""
 			"url":      ""
 			"number":   ""
 		},
 		{
 			"category": "Space"
+			"object":   "space"
 			"icon":     ""
 			"url":      ""
 			"number":   ""
 		},
 		{
 			"category": "Urban"
+			"object":   "urban"
 			"icon":     ""
 			"url":      ""
 			"number":   ""
 		},
 		{
 			"category": "Weather"
+			"object":   "weather"
 			"icon":     ""
 			"url":      ""
 			"number":   ""
