@@ -4,28 +4,28 @@
         {
             "category": "Dave's favorites",
             "object":   "default",
-            "icon":     "http://i.imgur.com/Mzdn156.jpg",
+            "icon":     "http://i.imgur.com/25iJU0X.jpg",
             "url":      "",
             "number":   "1"
         },
         {
             "category": "Abstract",
             "object":   "abstract",
-            "icon":     "http://i.imgur.com/Ru8ztwv.jpg",
+            "icon":     "http://i.imgur.com/BI4v68Y.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/abstract.json",
             "number":   "2"
         },
         {
             "category": "Android",
             "object":   "android",
-            "icon":     "http://i.imgur.com/AL9bCok.jpg",
+            "icon":     "http://i.imgur.com/4s5NFWs.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/android.json",
             "number":   "3"
         },
         {
             "category": "Black and white",
             "object":   "black_and_white",
-            "icon":     "http://i.imgur.com/jskyu4O.jpg",
+            "icon":     "http://i.imgur.com/s3qiEBz.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/black_and_white.json",
             "number":   "4"
         },
