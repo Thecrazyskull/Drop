@@ -77,6 +77,34 @@
 	        "preview":  "",
 	        "url":      "http://i.imgur.com/kqjBI3S.jpg",
 	        "number":   "11"
+	    },
+	    {
+	        "paper":    "LGE Reflection",
+	        "author":   "LGE",
+	        "preview":  "",
+	        "url":      "http://i.imgur.com/9BwVDqK.jpg",
+	        "number":   "12"
+	    },
+	    {
+	        "paper":    "1980's Worm Hole",
+	        "author":   "",
+	        "preview":  "",
+	        "url":      "http://i.imgur.com/d2rQBJA.jpg",
+	        "number":   "13"
+	    },
+	    {
+	        "paper":    "Imprint",
+	        "author":   "",
+	        "preview":  "",
+	        "url":      "http://i.imgur.com/e7gdqHZ.jpg",
+	        "number":   "14"
+	    },
+	    {
+	        "paper":    "Sequin",
+	        "author":   "",
+	        "preview":  "",
+	        "url":      "http://i.imgur.com/NeleNid.jpg",
+	        "number":   "15"
 	    }
 	]
 }
