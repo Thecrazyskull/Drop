@@ -9,17 +9,17 @@
 	        "number":   "1"
 	    },
 	    {
+	        "paper":    "Blue Cubes",
+	        "author":   "",
+	        "preview":  "",
+	        "url":      "http://i.imgur.com/DDQhmMi.jpg",
+	        "number":   "2"
+	    },
+	    {
 	        "paper":    "Silk Stripe",
 	        "author":   "",
 	        "preview":  "",
 	        "url":      "http://i.imgur.com/MEEzTT2.jpg",
-	        "number":   "3"
-	    },
-	    {
-	        "paper":    "Metal Grate",
-	        "author":   "",
-	        "preview":  "",
-	        "url":      "http://i.imgur.com/BI4v68Y.jpg",
 	        "number":   "3"
 	    },
 	    {
@@ -100,10 +100,10 @@
 	        "number":   "14"
 	    },
 	    {
-	        "paper":    "Sequin",
+	        "paper":    "Tron",
 	        "author":   "",
 	        "preview":  "",
-	        "url":      "http://i.imgur.com/NeleNid.jpg",
+	        "url":      "http://i.imgur.com/pu9Iznj.jpg",
 	        "number":   "15"
 	    }
 	]
