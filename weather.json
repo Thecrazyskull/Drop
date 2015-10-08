@@ -37,25 +37,32 @@
             "number":   "5"
         },
         {
+            "paper":    "Shiver-me Timbers",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/sMhylgl.jpg",
+            "number":   "6"
+        },
+        {
             "paper":    "Storm",
             "author":   "",
             "preview":  "",
             "url":      "http://i.imgur.com/hKiGQQg.jpg",
-            "number":   "6"
+            "number":   "7"
         },
         {
             "paper":    "Drops",
             "author":   "",
             "preview":  "",
             "url":      "http://i.imgur.com/IKipOVD.jpg",
-            "number":   "7"
+            "number":   "8"
         },
         {
             "paper":    "Stormy Sea",
             "author":   "",
             "preview":  "",
             "url":      "http://i.imgur.com/Uo1X9TD.jpg",
-            "number":   "8"
+            "number":   "9"
         }
     ]
 }
