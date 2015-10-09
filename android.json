@@ -70,6 +70,41 @@
             "preview":  "",
             "url":      "http://i.imgur.com/hrHR6OE.jpg",
             "number":   "10"
+        },
+        {
+            "paper":    "Splatter",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/1RZF862.png",
+            "number":   "11"
+        },
+        {
+            "paper":    "Scarface",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/ohbnh1Y.jpg",
+            "number":   "12"
+        },
+        {
+            "paper":    "Wireframe",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/j3eitlN.jpg",
+            "number":   "13"
+        },
+        {
+            "paper":    "Stamp",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/FrxRx8C.jpg",
+            "number":   "14"
+        },
+        {
+            "paper":    "Block",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/TwNuI4B.jpg",
+            "number":   "15"
         }
     ]
 }
