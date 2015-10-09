@@ -9,12 +9,12 @@
             "number":   "1"
         },
         {
-	        "paper":    "Sequin",
-	        "author":   "",
-	        "preview":  "",
-	        "url":      "http://i.imgur.com/NeleNid.jpg",
-	        "number":   "2"
-	    },
+            "paper":    "Sequin",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/NeleNid.jpg",
+            "number":   "2"
+        },
         {
             "paper":    "Dimpled Steel",
             "author":   "",
@@ -23,12 +23,12 @@
             "number":   "3"
         },
         {
-	        "paper":    "Metal Grate",
-	        "author":   "",
-	        "preview":  "",
-	        "url":      "http://i.imgur.com/BI4v68Y.jpg",
-	        "number":   "4"
-	    },
+            "paper":    "Metal Grate",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/BI4v68Y.jpg",
+            "number":   "4"
+        },
         {
             "paper":    "Heat Sheild",
             "author":   "",
