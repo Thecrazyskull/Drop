@@ -56,6 +56,27 @@
             "preview":  "",
             "url":      "http://i.imgur.com/MG4g6Fk.jpg",
             "number":   "8"
+        },
+        {
+            "paper":    "Shred",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/0lGlXFd.jpg",
+            "number":   "9"
+        },
+        {
+            "paper":    "Volcom",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/iDz9CJT.jpg",
+            "number":   "10"
+        },
+        {
+            "paper":    "Chain",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/elepBHE.jpg",
+            "number":   "11"
         }
     ]
 }
