@@ -84,6 +84,27 @@
             "preview":  "",
             "url":      "http://i.imgur.com/LQfygov.jpg",
             "number":   "10"
+        },
+        {
+            "paper":    "This is probably a dupe",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/nkM8ALZ.jpg",
+            "number":   "11"
+        },
+        {
+            "paper":    "Escape from Hellview",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/50C7ofa.jpg",
+            "number":   "12"
+        },
+        {
+            "paper":    "Landbridge",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/UF3MXeR.jpg",
+            "number":   "13"
         }
     ]
 }
