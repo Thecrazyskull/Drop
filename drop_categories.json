@@ -23,60 +23,67 @@
             "number":   "3"
         },
         {
+            "category": "Architecture",
+            "object":   "architecture",
+            "icon":     "http://i.imgur.com/M4k3LLH.jpg",
+            "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/architecture.json",
+            "number":   "4"
+        },
+        {
             "category": "Black and White",
             "object":   "black_and_white",
             "icon":     "http://i.imgur.com/s3qiEBz.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/black_and_white.json",
-            "number":   "4"
+            "number":   "5"
         },
         {
             "category": "Blur",
             "object":   "blur",
             "icon":     "http://i.imgur.com/kz2MZCi.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/blur.json",
-            "number":   "5"
+            "number":   "6"
         },
         {
             "category": "Landscapes",
             "object":   "landscapes",
             "icon":     "http://i.imgur.com/VRXgxUB.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/landscapes.json",
-            "number":   "6"
+            "number":   "7"
         },
         {
             "category": "Miscellaneous",
             "object":   "miscellaneous",
             "icon":     "http://i.imgur.com/IKUJM3e.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/miscellaneous.json",
-            "number":   "7"
+            "number":   "8"
         },
         {
             "category": "Space",
             "object":   "space",
             "icon":     "http://i.imgur.com/vSSyaSC.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/space.json",
-            "number":   "8"
+            "number":   "9"
         },
         {
             "category": "Textures",
             "object":   "textures",
             "icon":     "http://i.imgur.com/u9jIJtE.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/texture.json",
-            "number":   "9"
+            "number":   "10"
         },
         {
             "category": "Urban",
             "object":   "urban",
             "icon":     "http://i.imgur.com/HEsUkP5.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/urban.json",
-            "number":   "10"
+            "number":   "11"
         },
         {
             "category": "Weather",
             "object":   "weather",
             "icon":     "http://i.imgur.com/IKipOVD.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/weather.json",
-            "number":   "11"
+            "number":   "12"
         }
     ]
 }
