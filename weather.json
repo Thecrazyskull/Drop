@@ -84,6 +84,41 @@
             "preview":  "http://i.imgur.com/1RuBdEl.png",
             "url":      "http://i.imgur.com/R7KFqKz.jpg",
             "number":   "12"
+        },
+        {
+            "paper":    "Cirrus",
+            "author":   "",
+            "preview":  "http://i.imgur.com/dqYhJWD.jpg",
+            "url":      "http://i.imgur.com/dqYhJWD.jpg",
+            "number":   "13"
+        },
+        {
+            "paper":    "Rain",
+            "author":   "",
+            "preview":  "http://i.imgur.com/qDU23aJ.jpg",
+            "url":      "http://i.imgur.com/qDU23aJ.jpg",
+            "number":   "14"
+        },
+        {
+            "paper":    "Jabba-the-hut Cloud",
+            "author":   "",
+            "preview":  "http://i.imgur.com/mbh6GAI.jpg",
+            "url":      "http://i.imgur.com/mbh6GAI.jpg",
+            "number":   "15"
+        },
+        {
+            "paper":    "Greyscale droplets",
+            "author":   "",
+            "preview":  "http://i.imgur.com/p5wQgfG.jpg",
+            "url":      "http://i.imgur.com/p5wQgfG.jpg",
+            "number":   "16"
+        },
+        {
+            "paper":    "Ocean Rain",
+            "author":   "",
+            "preview":  "http://i.imgur.com/LA5O9fk.jpg",
+            "url":      "http://i.imgur.com/LA5O9fk.jpg",
+            "number":   "17"
         }
     ]
 }
