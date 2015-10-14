@@ -154,6 +154,41 @@
             "preview":  "",
             "url":      "http://i.imgur.com/utee5Ix.png",
             "number":   "22"
+        },
+        {
+            "paper":    "Rubik",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/E6wKcxx.jpg",
+            "number":   "23"
+        },
+        {
+            "paper":    "Benzene",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/ncejhSM.jpg",
+            "number":   "24"
+        },
+        {
+            "paper":    "Dark Crystal Lattice",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/X4bJPBb.jpg",
+            "number":   "25"
+        },
+        {
+            "paper":    "Cell Division",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/T2AMiX1.jpg",
+            "number":   "26"
+        },
+        {
+            "paper":    "Matrix Knockoff",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/6RXLZhL.jpg",
+            "number":   "27"
         }
     ]
 }
