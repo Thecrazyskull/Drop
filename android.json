@@ -107,18 +107,74 @@
             "number":   "15"
         },
         {
-            "paper": "Material 04",
-            "author": "",
-            "preview": "",
-            "url": "http://i.imgur.com/RBVmIur.jpg",
-            "number": "16"
+            "paper":    "Material 04",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/RBVmIur.jpg",
+            "number":   "16"
         },
         {
-            "paper": "Material 02",
-            "author": "",
-            "preview": "",
-            "url": "http://i.imgur.com/rz34Eg7.jpg",
-            "number": "17"
+            "paper":    "Material 02",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/rz34Eg7.jpg",
+            "number":   "17"
+        },
+        {
+            "paper":    "Surf Droid",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/7l5kl1x.jpg",
+            "number":   "18"
+        },
+        {
+            "paper":    "Nexus 10 Default",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/mJ1yvgV.jpg",
+            "number":   "19"
+        },
+        {
+            "paper":    "Material 6",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/OXIez20.jpg",
+            "number":   "20"
+        },
+        {
+            "paper":    "Red Black",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/5gtR3p8.jpg",
+            "number":   "21"
+        },
+        {
+            "paper":    "Paint Splatter",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/ceu7RdB.jpg",
+            "number":   "22"
+        },
+        {
+            "paper":    "Dazed",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/oHcBZEg.jpg",
+            "number":   "23"
+        },
+        {
+            "paper":    "Grey Panel",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/rX6468i.jpg",
+            "number":   "24"
+        },
+        {
+            "paper":    "Jellybean Default",
+            "author":   "",
+            "preview":  "",
+            "url":      "http://i.imgur.com/DTtzmgb.jpg",
+            "number":   "25"
         }
     ]
 }
