@@ -4,84 +4,84 @@
         {
             "category": "Author's favorites",
             "object":   "default",
-            "icon":     "http://i.imgur.com/25iJU0X.jpg",
+            "icon":     "http://i.imgur.com/ZrBHGnn.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/default.json",
             "number":   "1"
         },
         {
             "category": "Abstract",
             "object":   "abstract",
-            "icon":     "http://i.imgur.com/MeWyXGo.jpg",
+            "icon":     "http://i.imgur.com/Eahdt58.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/abstract.json",
             "number":   "2"
         },
         {
             "category": "Android",
             "object":   "android",
-            "icon":     "http://i.imgur.com/4s5NFWs.jpg",
+            "icon":     "http://i.imgur.com/0akykQ7.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/android.json",
             "number":   "3"
         },
         {
             "category": "Architecture",
             "object":   "architecture",
-            "icon":     "http://i.imgur.com/M4k3LLH.jpg",
+            "icon":     "http://i.imgur.com/56oUkW5.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/architecture.json",
             "number":   "4"
         },
         {
             "category": "Black and White",
             "object":   "black_and_white",
-            "icon":     "http://i.imgur.com/s3qiEBz.png",
+            "icon":     "http://i.imgur.com/3RBWiz6.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/black_and_white.json",
             "number":   "5"
         },
         {
             "category": "Blur",
             "object":   "blur",
-            "icon":     "http://i.imgur.com/kz2MZCi.png",
+            "icon":     "http://i.imgur.com/MqWWM55.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/blur.json",
             "number":   "6"
         },
         {
             "category": "Landscapes",
             "object":   "landscapes",
-            "icon":     "http://i.imgur.com/VRXgxUB.jpg",
+            "icon":     "http://i.imgur.com/LiYQ8zB.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/landscapes.json",
             "number":   "7"
         },
         {
             "category": "Miscellaneous",
             "object":   "miscellaneous",
-            "icon":     "http://i.imgur.com/IKUJM3e.jpg",
+            "icon":     "http://i.imgur.com/km3Z28U.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/miscellaneous.json",
             "number":   "8"
         },
         {
             "category": "Space",
             "object":   "space",
-            "icon":     "http://i.imgur.com/vSSyaSC.jpg",
+            "icon":     "http://i.imgur.com/cRsyYGD.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/space.json",
             "number":   "9"
         },
         {
             "category": "Textures",
             "object":   "textures",
-            "icon":     "http://i.imgur.com/u9jIJtE.jpg",
+            "icon":     "http://i.imgur.com/fTD7BL6.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/texture.json",
             "number":   "10"
         },
         {
             "category": "Urban",
             "object":   "urban",
-            "icon":     "http://i.imgur.com/HEsUkP5.jpg",
+            "icon":     "http://i.imgur.com/8vZRxlV.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/urban.json",
             "number":   "11"
         },
         {
             "category": "Weather",
             "object":   "weather",
-            "icon":     "http://i.imgur.com/IKipOVD.jpg",
+            "icon":     "http://i.imgur.com/uijsb7G.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/weather.json",
             "number":   "12"
         }
