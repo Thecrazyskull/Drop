@@ -39,7 +39,7 @@
         {
             "category": "Blur",
             "object":   "blur",
-            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/v1445100828/file_16_vq6r5r.png",
+            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/q_65/v1445100828/file_16_vq6r5r.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/blur.json",
             "number":   "6"
         },
@@ -53,7 +53,7 @@
         {
             "category": "Miscellaneous",
             "object":   "miscellaneous",
-            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/v1445104710/file_8_wv1zx9.png",
+            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/q_65/v1445104710/file_8_wv1zx9.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/miscellaneous.json",
             "number":   "8"
         },
@@ -81,7 +81,7 @@
         {
             "category": "Weather",
             "object":   "weather",
-            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/v1445114402/file_14_mqrxf0.png",
+            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/q_65/v1445114402/file_14_mqrxf0.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/weather.json",
             "number":   "12"
         }
