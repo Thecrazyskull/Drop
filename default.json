@@ -4,7 +4,7 @@
         {
             "paper":    "Holiday",
             "author":   "",
-            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/v1445053098/file_0_jfywvt.png",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/q_65/v1445053098/file_0_jfywvt.jpg",
             "url":      "http://i.imgur.com/25iJU0X.jpg",
             "number":   "1"
         },
@@ -18,7 +18,7 @@
         {
             "paper":    "Time lapse",
             "author":   "",
-            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/v1445053099/file_2_j34yhj.png",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/q_65/v1445053099/file_2_j34yhj.jpg",
             "url":      "http://i.imgur.com/e2hBpee.jpg",
             "number":   "3"
         },
@@ -32,7 +32,7 @@
         {
             "paper":    "Color burst",
             "author":   "",
-            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/v1445053107/file_4_rhv99k.png",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/q_60/v1445053107/file_4_rhv99k.png",
             "url":      "http://i.imgur.com/YBgvF9i.jpg",
             "number":   "5"
         },
@@ -53,14 +53,14 @@
         {
             "paper":    "Umbrella",
             "author":   "",
-            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/v1445053107/file_7_w1safy.png",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/q_65/v1445053107/file_7_w1safy.jpg",
             "url":      "http://i.imgur.com/G4V9oL3.jpg",
             "number":   "8"
         },
         {
             "paper":    "Solar eclipse",
             "author":   "",
-            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/v1445053105/file_8_brvnig.png",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/q_60/v1445053105/file_8_brvnig.jpg",
             "url":      "http://i.imgur.com/lz8Ovfv.jpg",
             "number":   "9"
         },

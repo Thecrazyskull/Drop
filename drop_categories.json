@@ -4,14 +4,14 @@
         {
             "category": "Author's favorites",
             "object":   "default",
-            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/v1445053098/file_0_jfywvt.png",
+            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/q_65/v1445053098/file_0_jfywvt.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/default.json",
             "number":   "1"
         },
         {
             "category": "Abstract",
             "object":   "abstract",
-            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/v1445039844/file_2_ug49ko.png",
+            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/q_65/v1445106761/file_3_lbgyay.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/abstract.json",
             "number":   "2"
         },
@@ -60,7 +60,7 @@
         {
             "category": "Space",
             "object":   "space",
-            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/v1445115436/file_11_ak92ef.png",
+            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/q_65/v1445115436/file_11_ak92ef.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/space.json",
             "number":   "9"
         },
