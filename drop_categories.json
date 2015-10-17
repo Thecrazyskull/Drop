@@ -81,7 +81,7 @@
         {
             "category": "Weather",
             "object":   "weather",
-            "icon":     "http://i.imgur.com/uijsb7G.png",
+            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/v1445114402/file_14_mqrxf0.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/weather.json",
             "number":   "12"
         }
