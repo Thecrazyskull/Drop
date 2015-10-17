@@ -4,7 +4,7 @@
         {
             "category": "Author's favorites",
             "object":   "default",
-            "icon":     "http://i.imgur.com/puIBxUo.png",
+            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/v1445053098/file_0_jfywvt.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/default.json",
             "number":   "1"
         },
@@ -25,14 +25,14 @@
         {
             "category": "Architecture",
             "object":   "architecture",
-            "icon":     "http://i.imgur.com/56oUkW5.png",
+            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/v1445059018/file_23_kbwcpy.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/architecture.json",
             "number":   "4"
         },
         {
             "category": "Black and White",
             "object":   "black_and_white",
-            "icon":     "http://i.imgur.com/3RBWiz6.png",
+            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/v1445098698/file_14_lisff5.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/black_and_white.json",
             "number":   "5"
         },
