@@ -32,7 +32,7 @@
         {
             "category": "Black and White",
             "object":   "black_and_white",
-            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/v1445098698/file_14_lisff5.png",
+            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/q_65/v1445098698/file_14_lisff5.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/black_and_white.json",
             "number":   "5"
         },
@@ -46,7 +46,7 @@
         {
             "category": "Landscapes",
             "object":   "landscapes",
-            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/v1445099887/file_9_ks2kfv.png",
+            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/q_65/v1445099887/file_9_ks2kfv.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/landscapes.json",
             "number":   "7"
         },
