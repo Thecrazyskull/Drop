@@ -60,7 +60,7 @@
         {
             "category": "Space",
             "object":   "space",
-            "icon":     "http://i.imgur.com/cRsyYGD.png",
+            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/v1445115436/file_11_ak92ef.png",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/space.json",
             "number":   "9"
         },
