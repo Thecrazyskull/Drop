@@ -67,7 +67,7 @@
         {
             "category": "Textures",
             "object":   "textures",
-            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/v1445106761/file_3_lbgyay.png",
+            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/q_65/v1445106761/file_3_lbgyay.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/texture.json",
             "number":   "10"
         },
