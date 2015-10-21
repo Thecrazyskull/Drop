@@ -53,7 +53,7 @@
         {
             "category": "Low-poly & Shapes",
             "object":   "lowpolyandshapes",
-            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445407633/meh.ro10805_bxz0wc.jpg",
+            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/s--8kalM52i--/c_scale,h_275,q_70,w_440/v1445407633/meh.ro10805_bxz0wc.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/shapes.json",
             "number":   "7"
         },
@@ -67,7 +67,7 @@
         {
             "category": "Motorsports",
             "object":   "motorsports",
-            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445402341/black_bmw_car_wallpaper1920x1080_uhji3z.jpg",
+            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/s--N4Y5w40l--/c_scale,q_70,w_440/v1445402341/black_bmw_car_wallpaper1920x1080_uhji3z.jpg",
             "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/motorsports.json",
             "number":   "9"
         },
