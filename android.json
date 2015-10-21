@@ -196,6 +196,13 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/q_65/v1445042344/ys6dU03_yuqldo.jpg",
             "url":      "http://i.imgur.com/NrLu8zX.jpg",
             "number":   "28"
+        },
+        {
+            "paper":    "Pseudo-material",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/s--Pki9RMEz--/c_scale,q_70,w_440/v1445410298/Android-Lollipop-wallpapers-m_ubl44k.jpg",
+            "url":      "http://res.cloudinary.com/dmk-applications/image/upload/v1445410298/Android-Lollipop-wallpapers-m_ubl44k.png",
+            "number":   "29"
         }
     ]
 }
