@@ -154,6 +154,13 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/q_65/v1445098732/file_21_wzsro4.png",
             "url":      "http://i.imgur.com/JFZqjsb.jpg",
             "number":   "22"
+        },
+        {
+            "paper":    "Blocks",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445409127/abstract_black_blocks_shapes_monochrome_modern_2560x1600_wallpaper_www.wallpaperhi.com_59_cxi5lu.jpg",
+            "url":      "http://i.imgur.com/mCCOA7y.jpg",
+            "number":   "23"
         }
     ]
 }
