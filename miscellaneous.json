@@ -189,6 +189,13 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/q_65/v1445104738/file_26_hbrcds.png",
             "url":      "http://i.imgur.com/6RXLZhL.jpg",
             "number":   "27"
+        },
+        {
+            "paper":    "Broken Glass Shape",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445409352/Geometric-shape-explosion_www.WppShack.com_-e1424853353391_uf6f27.jpg",
+            "url":      "http://i.imgur.com/AuPC1YC.jpg",
+            "number":   "28"
         }
     ]
 }
