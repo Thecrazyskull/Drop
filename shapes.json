@@ -151,7 +151,7 @@
         {
             "paper":    "Low Poly Land",
             "author":   "",
-            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445407633/meh.ro10805_bxz0wc.jpg",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/s--8kalM52i--/c_scale,h_275,q_70,w_440/v1445407633/meh.ro10805_bxz0wc.jpg",
             "url":      "http://i.imgur.com/iobIgB6.jpg",
             "number":   "21"
         },
@@ -165,7 +165,7 @@
         {
             "paper":    "Low Poly Saturn",
             "author":   "",
-            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445407663/meh.ro11749_nqhsk7.jpg",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/s--3_IKa4ez--/c_scale,h_275,q_80,w_440/v1445407663/meh.ro11749_nqhsk7.jpg",
             "url":      "http://i.imgur.com/9CLi397.png",
             "number":   "23"
         },
@@ -249,7 +249,7 @@
         {
             "paper":    "Wannabe Material 2",
             "author":   "",
-            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445407821/Y370T_hjo4wj.jpg",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/s--ejFaZB_i--/c_scale,h_275,q_70,w_440/v1445407821/Y370T_hjo4wj.jpg",
             "url":      "http://i.imgur.com/pMRT2n3.jpg",
             "number":   "35"
         },
@@ -259,27 +259,6 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445407705/minimalistic_orange_stripes_Wallpaper_1280x1024_www.wallpaperswa.com_hgi7wm.jpg",
             "url":      "http://i.imgur.com/im58SBh.jpg",
             "number":   "36"
-        },
-        {
-            "paper":    "",
-            "author":   "",
-            "preview":  "",
-            "url":      "",
-            "number":   ""
-        },
-        {
-            "paper":    "",
-            "author":   "",
-            "preview":  "",
-            "url":      "",
-            "number":   ""
-        },
-        {
-            "paper":    "",
-            "author":   "",
-            "preview":  "",
-            "url":      "",
-            "number":   ""
         }
     ]
 }
