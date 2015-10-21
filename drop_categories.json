@@ -51,6 +51,13 @@
             "number":   "7"
         },
         {
+            "category": "Low-poly & Shapes",
+            "object":   "lowpolyandshapes",
+            "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445407633/meh.ro10805_bxz0wc.jpg",
+            "url":      "https://raw.githubusercontent.com/AlmightyMegadeth00/Drop/master/shapes.json",
+            "number":   "7"
+        },
+        {
             "category": "Miscellaneous",
             "object":   "miscellaneous",
             "icon":     "http://res.cloudinary.com/dmk-applications/image/upload/q_65/v1445104710/file_8_wv1zx9.jpg",
