@@ -154,6 +154,41 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/s--9tUev3If--/c_scale,q_70,w_440/v1445409709/clouds_sea_weather_lightning_s_1920x1080_wallpaperfo.com_x7ecko.jpg",
             "url":      "http://i.imgur.com/IE5wHFW.jpg",
             "number":   "22"
+        },
+        {
+            "paper":    "Snowy Path",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445472783/cold-weather-wallpaper-3_udbzyp.jpg",
+            "url":      "http://i.imgur.com/I1nR0Ji.jpg",
+            "number":   "23"
+        },
+        {
+            "paper":    "Drop Puddle 02",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445472751/free-desktop-nature-weather-rain-for-deskto-c-p-ibackgroundz.com_ylcmq9.jpg",
+            "url":      "http://i.imgur.com/HoJeWgz.jpg",
+            "number":   "24"
+        },
+        {
+            "paper":    "Dark Lightning",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445472768/ocean_storm_weather_pier_light_1920x1080_wallpaperhi.com_ejjujv.jpg",
+            "url":      "http://i.imgur.com/UZzYIiF.jpg",
+            "number":   "25"
+        },
+        {
+            "paper":    "Jody Foster's Dildo",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445472784/weather-tornadoes_00263273_gaqgy6.jpg",
+            "url":      "http://i.imgur.com/YIzP35R.jpg",
+            "number":   "26"
+        },
+        {
+            "paper":    "Lightning Road",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445472814/lightning_road_asphalt_elements_sky_bad_weather_car_movement_category_53387_2560x1600_yccbek.jpg",
+            "url":      "http://i.imgur.com/PCbuNT0.jpg",
+            "number":   "27"
         }
     ]
 }
