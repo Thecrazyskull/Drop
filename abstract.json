@@ -198,53 +198,39 @@
             "number":   "27"
         },
         {
-            "paper":    "Rainbow Music",
-            "author":   "",
-            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445479301/AbstractMusicWallpapers5_go986t.jpg",
-            "url":      "http://i.imgur.com/yqMHgYm.jpg",
-            "number":   "28"
-        },
-        {
-            "paper":    "Ouch, A Cube Ball Pit",
-            "author":   "",
-            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445479380/Abstract-HD-Widescreen-Wallpapers8_j8d1nl.jpg",
-            "url":      "http://i.imgur.com/HRZZgrw.jpg",
-            "number":   "29"
-        },
-        {
             "paper":    "Grey Pillows",
             "author":   "",
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445479304/864566-osx-abstract-wallpaper_dx1mpl.jpg",
             "url":      "http://i.imgur.com/d7Rz6S2.jpg",
-            "number":   "30"
+            "number":   "28"
         },
         {
             "paper":    "Blue Lines",
             "author":   "",
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445479429/729748-abstract-wallpapers_m0ek3j.jpg",
             "url":      "http://i.imgur.com/D9sRdDz.jpg",
-            "number":   ""
+            "number":   "29"
         },
         {
             "paper":    "Green Thing",
             "author":   "",
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445479403/548271-abstract-wallpaper-1920x1080_fe8awu.jpg",
             "url":      "http://i.imgur.com/jo6Vn62.jpg",
-            "number":   "31"
+            "number":   "30"
         },
         {
             "paper":    "Blue Linux",
             "author":   "",
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445479347/48578_sxcjo2.jpg",
             "url":      "http://i.imgur.com/kcWcaYI.jpg",
-            "number":   "32"
+            "number":   "31"
         },
         {
             "paper":    "Eyeball",
             "author":   "",
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445479406/3D-Eye-Abstract-Wallpaper-Free-Download_ck7h9r.jpg",
             "url":      "http://i.imgur.com/1zkpOiK.jpg",
-            "number":   "33"
+            "number":   "32"
         }
 	]
 }
