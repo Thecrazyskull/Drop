@@ -140,6 +140,13 @@
 	        "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445408901/yellow-and-black-shapes-abstract-hd-wallpaper-46b315dd44d174daf5617e22b3ac94ca-big-20901_b75ysz.jpg",
 	        "url":      "http://i.imgur.com/IGGruid.jpg",
 	        "number":   "19"
-	    }
+	    },
+	    {
+            "paper":    "Purple Lines",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445473026/light_abstract_black_dark_red__1680x1050_wallpaperhi.com_x5aizo.jpg",
+            "url":      "http://i.imgur.com/EjJCaTj.jpg",
+            "number":   "20"
+        }
 	]
 }
