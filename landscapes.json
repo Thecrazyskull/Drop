@@ -154,6 +154,41 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445409262/nature_landscape_sun_and_sky_84-wallpaper-1440x900_ehqb0y.jpg",
             "url":      "http://i.imgur.com/VXsCFGx.jpg",
             "number":   "22"
+        },
+        {
+            "paper":    "Ocean with Clouds",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445473917/water_clouds_landscapes_2560x1_1280x1024_wallpaperhi.com_pripm6.jpg",
+            "url":      "http://i.imgur.com/fozXYA6.jpg",
+            "number":   "23"
+        },
+        {
+            "paper":    "Snows of Killamanjaro",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445473827/Extinct-volcano-HD-Desktop-Wallpaper-1920x1080_dkshgr.jpg",
+            "url":      "http://i.imgur.com/CDLmMq1.jpg",
+            "number":   "24"
+        },
+        {
+            "paper":    "Stream",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445473845/25319_1600x1200-wallpaper-cb1283871307_gmvpnp.jpg",
+            "url":      "http://i.imgur.com/ljdsjbA.jpg",
+            "number":   "25"
+        },
+        {
+            "paper":    "Happy Little Valley",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445473927/stormy-weather_hwoohw.jpg",
+            "url":      "http://i.imgur.com/QSP9iMF.jpg",
+            "number":   "26"
+        },
+        {
+            "paper":    "Hawaiian Beach",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445473955/wallpaper-6860_f8o906.jpg",
+            "url":      "http://i.imgur.com/j6WLBrJ.jpg",
+            "number":   "27"
         }
     ]
 }
