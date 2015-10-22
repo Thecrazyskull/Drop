@@ -147,6 +147,48 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445409492/tile-texture-with-reflection-1357923616_26_pazkip.jpg",
             "url":      "http://i.imgur.com/v2GZCEh.jpg",
             "number":   "21"
+        },
+        {
+            "paper":    "Bamboo",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445475582/Bamboo-Texture-3_ersv1z.jpg",
+            "url":      "http://i.imgur.com/c7FNSp4.jpg",
+            "number":   "22"
+        },
+        {
+            "paper":    "Wool",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445475700/Chunky_cowl_lpsfl3.jpg",
+            "url":      "http://i.imgur.com/F05ZD2z.jpg",
+            "number":   "23"
+        },
+        {
+            "paper":    "70s Rainbow Cloth",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445475628/texture-wallpaper_fskcxd.jpg",
+            "url":      "http://i.imgur.com/5TY8zh1.jpg",
+            "number":   "24"
+        },
+        {
+            "paper":    "Concrete Blocks",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445475653/Concrete-Graphic_nepfub.jpg",
+            "url":      "http://i.imgur.com/u2rUlei.jpg",
+            "number":   "25"
+        },
+        {
+            "paper":    "I Guess This is Supposed To Be Bamboo",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445475732/japanese-bamboo-HTC-First-Textured-wallpaper_ywwsd7.jpg",
+            "url":      "http://i.imgur.com/SVdMczH.jpg",
+            "number":   "26"
+        },
+        {
+            "paper":    "Dark Grate Pattern",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445475747/texture-victorian_2412414.jpg_gyrmja.jpg",
+            "url":      "http://i.imgur.com/O0g93oX.png",
+            "number":   "27"
         }
     ]
 }
