@@ -140,6 +140,13 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/q_65/v1445100832/file_19_j4exhs.jpg",
             "url":      "http://i.imgur.com/DcKKdju.jpg",
             "number":   "20"
+        },
+        {
+            "paper":    "Fall",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445473709/fall-weather_00432083_ddy7yf.jpg",
+            "url":      "http://i.imgur.com/eAZu1ZQ.jpg",
+            "number":   "21"
         }
     ]
 }
