@@ -455,6 +455,20 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445467310/black-lamborghini-aventador-wallpaper-hd-1080p_cy1rhm.jpg",
             "url":      "http://i.imgur.com/2ROPix9.jpg",
             "number":   "65"
+        },
+        {
+            "paper":    "Abstract Bike",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445902340/bike_640x480_8466_lokgrl.jpg",
+            "url":      "http://i.imgur.com/zlcZmaB.jpg",
+            "number":   "67"
+        },
+        {
+            "paper":    "Dirty Monster Truck",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445902351/Monster-Truck-1920x1080_oblyba.jpg",
+            "url":      "http://i.imgur.com/JntITka.jpg",
+            "number":   "68"
         }
     ]
 }
