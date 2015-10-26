@@ -161,6 +161,20 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445409127/abstract_black_blocks_shapes_monochrome_modern_2560x1600_wallpaper_www.wallpaperhi.com_59_cxi5lu.jpg",
             "url":      "http://i.imgur.com/mCCOA7y.jpg",
             "number":   "23"
+        },
+        {
+            "paper":    "NYC Cityscape",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445900687/New_York_Cityscape_1920X1440_Wallpaper_pxpp0k.jpg",
+            "url":      "http://i.imgur.com/KTgUrHx.jpg",
+            "number":   "24"
+        },
+        {
+            "paper":    "Outer Space",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445900704/science_outer_space_stars_earth_nasa_astronomy_astronauts_skyscapes_night_sky_Wallpaper_1600x1200_www.wall321.com_tjbzxg.jpg",
+            "url":      "http://i.imgur.com/4RA5ouC.jpg",
+            "number":   "25"
         }
     ]
 }
