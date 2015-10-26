@@ -189,6 +189,20 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445475747/texture-victorian_2412414.jpg_gyrmja.jpg",
             "url":      "http://i.imgur.com/O0g93oX.png",
             "number":   "27"
+        },
+        {
+            "paper":    "Drops",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445902702/Water-Droops-Abstract-Wallpaper-HD_mtpjf4.jpg",
+            "url":      "http://i.imgur.com/yNqvrtj.jpg",
+            "number":   "28"
+        },
+        {
+            "paper":    "Christmas Ornament",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445902677/284752_ioztzy.jpg",
+            "url":      "http://i.imgur.com/z1RWKDu.jpg",
+            "number":   "29"
         }
     ]
 }
