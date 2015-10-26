@@ -231,6 +231,20 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/q_65/v1445057628/file_32_t6incb.jpg",
             "url":      "http://i.imgur.com/zulTRa1.jpg",
             "number":   "33"
+        },
+        {
+            "paper":    "Miami?",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445902865/68_c1o23m.jpg",
+            "url":      "http://i.imgur.com/NZd1lNF.jpg",
+            "number":   "34"
+        },
+        {
+            "paper":    "Cold Dawn",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445902853/Cold_Dawn_1600X1200_Wallpaper_krjfwo.jpg",
+            "url":      "http://i.imgur.com/Ke6Rp9i.jpg",
+            "number":   "35"
         }
     ]
 }
