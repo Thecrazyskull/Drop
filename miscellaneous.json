@@ -301,6 +301,13 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445901758/5769_miscellaneous_hd_wallpapers_leaf_gda8jq.jpg",
             "url":      "http://i.imgur.com/Yiw7T1p.jpg",
             "number":   "43"
+        },
+        {
+            "paper":    "Optics",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446419557/abstract_wallpaper_by_bezo97-d7a58jc_rbiv8h.jpg",
+            "url":      "http://i.imgur.com/g59dks7.png",
+            "number":   "44"
         }
     ]
 }
