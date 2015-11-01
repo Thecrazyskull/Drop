@@ -259,6 +259,20 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445900891/Free_Miscellaneous_Wallpapers_8_yir3nw.jpg",
             "url":      "http://i.imgur.com/sPf8a5N.jpg",
             "number":   "37"
+        },
+        {
+            "paper":    "Bluey",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446419226/dark_spots_background_abstract_73380_3840x2160_lr8c6t.jpg",
+            "url":      "http://i.imgur.com/SSrgYJi.jpg",
+            "number":   "38"
+        },
+        {
+            "paper":    "Spots",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446419227/light_abstract_1920x1200_wallpaper_www.wallpaperto.com_12_u4ojsv.jpg",
+            "url":      "http://i.imgur.com/mvgQiuV.jpg",
+            "number":   "39"
         }
     ]
 }
