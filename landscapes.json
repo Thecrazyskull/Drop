@@ -224,6 +224,27 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446419382/pWNgnmO_sufmff.jpg",
             "url":      "http://i.imgur.com/ybK66qB.jpg",
             "number":   "32"
+        },
+        {
+            "paper":    "Desert",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446426656/hot-summer-weather-wallpapers-1920x1200_nxuims.jpg",
+            "url":      "http://i.imgur.com/hIkZD9Z.jpg",
+            "number":   "33"
+        },
+        {
+            "paper":    "Mountain",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446426659/winter-wallpaper-3_ndtklc.jpg",
+            "url":      "http://i.imgur.com/6xIqzkk.jpg",
+            "number":   "34"
+        },
+        {
+            "paper":    "Ocean",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446426655/917788-weather-wallpaper_knehxt.jpg",
+            "url":      "http://i.imgur.com/GmLs03M.jpg",
+            "number":   "35"
         }
     ]
 }
