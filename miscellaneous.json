@@ -308,6 +308,13 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446419557/abstract_wallpaper_by_bezo97-d7a58jc_rbiv8h.jpg",
             "url":      "http://i.imgur.com/g59dks7.png",
             "number":   "44"
+        },
+        {
+            "paper":    "Wall",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446487935/texture-wallpaper-45455-46677-hd-wallpapers_xccy0z.jpg",
+            "url":      "http://i.imgur.com/jAhC5xz.jpg",
+            "number":   "45"
         }
     ]
 }
