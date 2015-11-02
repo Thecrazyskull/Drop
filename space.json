@@ -336,6 +336,13 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445899732/189617-nasa-nasa-wallpaper-1_o5nvqr.jpg",
             "url":      "http://i.imgur.com/Mu7FexC.jpg",
             "number":   "46"
+        },
+        {
+            "paper":    "Mountain and Stars",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446426899/wallpaper-2403739_ovowq9.jpg",
+            "url":      "http://i.imgur.com/0hlZCO9.jpg",
+            "number":   "47"
         }
     ]
 }
