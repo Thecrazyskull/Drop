@@ -315,6 +315,13 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446487935/texture-wallpaper-45455-46677-hd-wallpapers_xccy0z.jpg",
             "url":      "http://i.imgur.com/jAhC5xz.jpg",
             "number":   "45"
+        },
+        {
+            "paper":    "Headphones",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/v1446689606/black-and-white-headphones-wallpaper-3583-3776-hd-wallpapers_mlso6k.jpg",
+            "url":      "http://i.imgur.com/MtvWXjW.jpg",
+            "number":   "46"
         }
     ]
 }
