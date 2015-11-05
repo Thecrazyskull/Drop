@@ -287,6 +287,13 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446487840/beach_rocks_sunlight_macro_1920x1200_wallpaper_www.wall321.com_62_njycwe.jpg",
             "url":      "http://i.imgur.com/xlxnfaf.jpg",
             "number":   "42"
+        },
+        {
+            "paper":    "Fake Blurry City",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446689095/cityscapes_architecture_tiltshift_1920x1080_wallpaper_www.wall321.com_8_hxeb13.jpg",
+            "url":      "http://i.imgur.com/9mmXQgy.jpg",
+            "number":   "43"
         }
     ]
 }
