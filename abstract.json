@@ -399,6 +399,13 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446416001/Windows_7_abstract_wallpaper_zgbxoc.jpg",
             "url":      "http://i.imgur.com/tH9o0Ce.jpg",
             "number":   "56"
+        },
+        {
+            "paper":    "Visual Diarrhea",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/v1446776441/smooth-abstract-shapes_wwx8c9.jpg",
+            "url":      "http://i.imgur.com/TPN4ycy.jpg",
+            "number":   "57"
         }
 	]
 }
