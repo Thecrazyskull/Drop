@@ -350,6 +350,27 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446687779/wallpapers-architecture_zhj3px.jpg",
             "url":      "http://i.imgur.com/O666wSl.jpg",
             "number":   "50"
+        },
+        {
+            "paper":    "Some Palace",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446774965/6994270-landscape-wallpaper-android_uxc24v.jpg",
+            "url":      "http://i.imgur.com/MvVQeYS.jpg",
+            "number":   "51"
+        },
+        {
+            "paper":    "Cable Support Thingy",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446774964/architecture_skies_1920x1080_wallpaper_Wallpaper_1600x1200_www.wall321.com_i8oacu.jpg",
+            "url":      "http://i.imgur.com/UgZ5h3w.jpg",
+            "number":   "52"
+        },
+        {
+            "paper":    "Bridge Support",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446774956/ws_Architecture_1600x1200_knaywz.jpg",
+            "url":      "http://i.imgur.com/qMEm98o.jpg",
+            "number":   "53"
         }
     ]
 }
