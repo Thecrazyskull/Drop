@@ -294,6 +294,13 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446689095/cityscapes_architecture_tiltshift_1920x1080_wallpaper_www.wall321.com_8_hxeb13.jpg",
             "url":      "http://i.imgur.com/9mmXQgy.jpg",
             "number":   "43"
+        },
+        {
+            "paper":    "Another Blurry City",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446775214/city-landscape-wallpaper-amazing-resolution-1zm03nl2_ong3vl.jpg",
+            "url":      "http://i.imgur.com/TipMZgU.jpg",
+            "number":   "44"
         }
     ]
 }
