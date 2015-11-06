@@ -259,6 +259,27 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446427015/Winter-Night-Snow-33-HD-Images-Wallpapers-1024x640_nrupil.jpg",
             "url":      "http://i.imgur.com/oEC0WpR.jpg",
             "number":   "37"
+        },
+        {
+            "paper":    "Snow Land",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446775309/406523__frozen-landscape_p_tqtfjg.jpg",
+            "url":      "http://i.imgur.com/bd3L0Ji.jpg",
+            "number":   "38"
+        },
+        {
+            "paper":    "Wet Misty Snowland",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446775316/6917965-winter-landscape-wallpaper_krnxjq.jpg",
+            "url":      "http://i.imgur.com/ijOcJer.jpg",
+            "number":   "39"
+        },
+        {
+            "paper":    "Some Clouds",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446775310/blue_clouds-wallpaper-1280x768_jo5uaz.jpg",
+            "url":      "http://i.imgur.com/VFtS267.jpg",
+            "number":   "40"
         }
     ]
 }
