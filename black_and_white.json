@@ -280,6 +280,13 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446689666/black-white-background-24_e0unaw.jpg",
             "url":      "http://i.imgur.com/q54wHSS.jpg",
             "number":   "40"
+        },
+        {
+            "paper":    "Tree",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446775138/44bb50d043b19f701f3843d4c7906942_fr6g46.jpg",
+            "url":      "http://i.imgur.com/ZtT30Yi.jpg",
+            "number":   "41"
         }
     ]
 }
