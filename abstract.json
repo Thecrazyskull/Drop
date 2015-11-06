@@ -403,9 +403,23 @@
         {
             "paper":    "Visual Diarrhea",
             "author":   "",
-            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/v1446776441/smooth-abstract-shapes_wwx8c9.jpg",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446776441/smooth-abstract-shapes_wwx8c9.jpg",
             "url":      "http://i.imgur.com/TPN4ycy.jpg",
             "number":   "57"
+        },
+        {
+            "paper":    "Glowy flowers?",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446776547/3d_view_abstract_flowers_fractals_water_lilies_1280x1024_wallpaper_Wallpaper_1080x960_www.wall321.com_zoa13h.jpg",
+            "url":      "http://i.imgur.com/sFWImVh.jpg",
+            "number":   "58"
+        },
+        {
+            "paper":    "Raining Blood",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446776547/42050-metallic-shapes-1366x768-abstract-wallpaper_kd8mgp.jpg",
+            "url":      "http://i.imgur.com/2zL7vkX.jpg",
+            "number":   "59"
         }
 	]
 }
