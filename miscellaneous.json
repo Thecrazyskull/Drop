@@ -319,9 +319,23 @@
         {
             "paper":    "Headphones",
             "author":   "",
-            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/v1446689606/black-and-white-headphones-wallpaper-3583-3776-hd-wallpapers_mlso6k.jpg",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446689606/black-and-white-headphones-wallpaper-3583-3776-hd-wallpapers_mlso6k.jpg",
             "url":      "http://i.imgur.com/MtvWXjW.jpg",
             "number":   "46"
+        },
+        {
+            "paper":    "Koi",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446776664/Koi_Shapes_Wallpaper_by_HandyCakeQueen_thstdg.jpg",
+            "url":      "http://i.imgur.com/dJbBCTa.jpg",
+            "number":   "47"
+        },
+        {
+            "paper":    "Gears",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446776665/hd-wallpapers-mechanical-gears-wallpaper-1920x1200-wallpaper_lnjddk.jpg",
+            "url":      "http://i.imgur.com/XdsRjwY.jpg",
+            "number":   "48"
         }
     ]
 }
