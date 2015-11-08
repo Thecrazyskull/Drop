@@ -336,6 +336,20 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446776665/hd-wallpapers-mechanical-gears-wallpaper-1920x1200-wallpaper_lnjddk.jpg",
             "url":      "http://i.imgur.com/XdsRjwY.jpg",
             "number":   "48"
+        },
+        {
+            "paper":    "Godzilla",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447005476/minimal_godzilla_wallpaper_2_by_johnny__darko-d7gfjt5_yajbtk.jpg",
+            "url":      "http://i.imgur.com/pTJ7826.jpg",
+            "number":   "49"
+        },
+        {
+            "paper":    "Cop Chicken",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447005476/police-wallpaper-4-Cool-Wallpapers-1024x640_v9ojxv.jpg",
+            "url":      "http://i.imgur.com/FIjmBxj.jpg",
+            "number":   "50"
         }
     ]
 }
