@@ -301,6 +301,20 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447035066/chris-burdens-urban-light-at-lacma_00446881_iklxo4.jpg",
             "url":      "http://i.imgur.com/Eum2J6y.jpg",
             "number":   "43"
+        },
+        {
+            "paper":    "Cat",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447107819/vyZzmFu_xapltq.jpg",
+            "url":      "http://i.imgur.com/b5xZJtJ.jpg",
+            "number":   "44"
+        },
+        {
+            "paper":    "Waterside",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447107819/whitby_harbour_walls_abstract_photography_hd-wallpaper-1858089_g8uoha.jpg",
+            "url":      "http://i.imgur.com/V8sGLaq.jpg",
+            "number":   "45"
         }
     ]
 }
