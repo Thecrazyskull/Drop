@@ -350,6 +350,48 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447005476/police-wallpaper-4-Cool-Wallpapers-1024x640_v9ojxv.jpg",
             "url":      "http://i.imgur.com/FIjmBxj.jpg",
             "number":   "50"
+        },
+        {
+            "paper":    "Almost Legos",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447106808/3d_form_abstract_hd_wallpaper_w9gcx4.jpg",
+            "url":      "http://i.imgur.com/LxvUpV8.jpg",
+            "number":   "51"
+        },
+        {
+            "paper":    "Swirly Flower BS",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447106808/49306-colorful-pattern-wallpaper-10-14-1024x768_ih9ad6.jpg",
+            "url":      "http://i.imgur.com/qZd1Zps.jpg",
+            "number":   "52"
+        },
+        {
+            "paper":    "Wire-frame Skulls",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447106813/6895962-skull-pattern_mclpo9.jpg",
+            "url":      "http://i.imgur.com/GfEqM0N.jpg",
+            "number":   "53"
+        },
+        {
+            "paper":    "Carpet",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447106809/abstract-background-pattern-wallpapers-hd-pattern-wallpaper-background-tumblr-hd-iphone-for-walls-home-android-uk-ipad-calculator-pattern-1408966182_h85dm0.jpg",
+            "url":      "http://i.imgur.com/Fu5ZPao.jpg",
+            "number":   "54"
+        },
+        {
+            "paper":    "Pencils",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447106808/bokeh_color_pencil_abstract_macro_pattern_1280x1024_edmrtr.jpg",
+            "url":      "http://i.imgur.com/omRrG3I.jpg",
+            "number":   "55"
+        },
+        {
+            "paper":    "Bubbles",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447106810/photography_bubbles_rainbow_color_water_pattern_texture_1280x960_kwucg3.jpg",
+            "url":      "http://i.imgur.com/bUkbFTM.jpg",
+            "number":   "56"
         }
     ]
 }
