@@ -280,6 +280,34 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446775310/blue_clouds-wallpaper-1280x768_jo5uaz.jpg",
             "url":      "http://i.imgur.com/VFtS267.jpg",
             "number":   "40"
+        },
+        {
+            "paper":    "Sky Clouds",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447034381/clouds_outer_space_horizon_stars_skyscapes_1680x1050_wallpaper_Wallpaper_1600x1200_www.wall321.com_oe6mua.jpg",
+            "url":      "http://i.imgur.com/RaqVdLC.jpg",
+            "number":   "41"
+        },
+        {
+            "paper":    "Water Lightning",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447034390/landscapes_nature_storm_lakes_lightning_dark_sky_bay_Wallpaper_1600x1200_www.wall321.com_upymxi.jpg",
+            "url":      "http://i.imgur.com/pvdxF01.jpg",
+            "number":   "42"
+        },
+        {
+            "paper":    "Water Lightning 2",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447034388/landscapes_storm_lightning_2560x1600_wallpaper_Wallpaper_1600x1200_www.wall321.com_nhmynu.jpg",
+            "url":      "http://i.imgur.com/kT9vxlR.jpg",
+            "number":   "43"
+        },
+        {
+            "paper":    "Water Lightning 3",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447034389/storm_lightning_3072x2048_wallpaper_Wallpaper_1600x1200_www.wall321.com_osupmr.jpg",
+            "url":      "http://i.imgur.com/catqSYD.jpg",
+            "number":   "44"
         }
     ]
 }
