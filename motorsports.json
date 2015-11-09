@@ -469,6 +469,27 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1445902351/Monster-Truck-1920x1080_oblyba.jpg",
             "url":      "http://i.imgur.com/JntITka.jpg",
             "number":   "68"
+        },
+        {
+            "paper":    "GT40",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447107031/85856_wallpaper-1944502_ydlrms.jpg",
+            "url":      "http://i.imgur.com/yzyNtc2.jpg",
+            "number":   "69"
+        },
+        {
+            "paper":    "Chevelle",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447107034/1522518_by25xr.jpg",
+            "url":      "http://i.imgur.com/DwOnREB.jpg",
+            "number":   "70"
+        },
+        {
+            "paper":    "Impala",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447107033/Vintage-Photography-Wallpaper-HD4-1024x640_htycng.jpg",
+            "url":      "http://i.imgur.com/Ot1j8RF.jpg",
+            "number":   "71"
         }
     ]
 }
