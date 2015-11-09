@@ -343,6 +343,27 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446426899/wallpaper-2403739_ovowq9.jpg",
             "url":      "http://i.imgur.com/0hlZCO9.jpg",
             "number":   "47"
+        },
+        {
+            "paper":    "Gas Swirl",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447034757/clouds_outer_space_satellite_1680x1050_wallpaper_Wallpaper_1600x1200_www.wall321.com_qqkfgl.jpg",
+            "url":      "http://i.imgur.com/UpXEZHx.jpg",
+            "number":   "48"
+        },
+        {
+            "paper":    "Aurora Borealis Above Clouds",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447034762/clouds_outer_space_stars_moon_aurora_1920x1080_wallpaper_Wallpaper_1600x1200_www.wall321.com_dsfl6f.jpg",
+            "url":      "http://i.imgur.com/CJ1A8Xd.jpg",
+            "number":   "49"
+        },
+        {
+            "paper":    "Sunrise",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447034764/sunsets_earth_colored_1280x800_wallpaper_Wallpaper_1600x1200_www.wall321.com_jm5ypk.jpg",
+            "url":      "http://i.imgur.com/Keh9RBo.jpg",
+            "number":   "50"
         }
     ]
 }
