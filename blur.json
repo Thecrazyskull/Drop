@@ -301,6 +301,48 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446775214/city-landscape-wallpaper-amazing-resolution-1zm03nl2_ong3vl.jpg",
             "url":      "http://i.imgur.com/TipMZgU.jpg",
             "number":   "44"
+        },
+        {
+            "paper":    "Candles",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447108527/7002978-hd-photography-wallpaper_ivhbpa.jpg",
+            "url":      "http://i.imgur.com/ITEAPq7.jpg",
+            "number":   "45"
+        },
+        {
+            "paper":    "Ice",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447108529/Abstract-Photography-Wallpaper-photo-vxfz_b6pcbo.jpg",
+            "url":      "http://i.imgur.com/vEDqRUa.jpg",
+            "number":   "46"
+        },
+        {
+            "paper":    "Droplets",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447108530/android-l-wallpaper-for-nexus-7_hjbln7.jpg",
+            "url":      "http://i.imgur.com/uywaB6y.jpg",
+            "number":   "47"
+        },
+        {
+            "paper":    "More Droplets",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447108529/Fine_still_photography_wallpapers_1280x800_05_gre4nc.jpg",
+            "url":      "http://i.imgur.com/W1vPkf1.jpg",
+            "number":   "48"
+        },
+        {
+            "paper":    "Japanese Maple",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447108531/nexus-7-wallpaper-45_mg8bsn.jpg",
+            "url":      "http://i.imgur.com/YL9BUUt.jpg",
+            "number":   "49"
+        },
+        {
+            "paper":    "Some Weed",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447108531/Photography-Wallpaper-E9D_xjyyvq.jpg",
+            "url":      "http://i.imgur.com/TQZWgfL.jpg",
+            "number":   "50"
         }
     ]
 }
