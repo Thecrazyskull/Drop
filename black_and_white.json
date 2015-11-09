@@ -287,6 +287,20 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446775138/44bb50d043b19f701f3843d4c7906942_fr6g46.jpg",
             "url":      "http://i.imgur.com/ZtT30Yi.jpg",
             "number":   "41"
+        },
+        {
+            "paper":    "Subway",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447035064/architecture-urban_00287788_bskaam.jpg",
+            "url":      "http://i.imgur.com/Qosv5J5.jpg",
+            "number":   "42"
+        },
+        {
+            "paper":    "Lightposts",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447035066/chris-burdens-urban-light-at-lacma_00446881_iklxo4.jpg",
+            "url":      "http://i.imgur.com/Eum2J6y.jpg",
+            "number":   "43"
         }
     ]
 }
