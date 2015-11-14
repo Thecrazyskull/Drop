@@ -364,6 +364,13 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447034764/sunsets_earth_colored_1280x800_wallpaper_Wallpaper_1600x1200_www.wall321.com_jm5ypk.jpg",
             "url":      "http://i.imgur.com/Keh9RBo.jpg",
             "number":   "50"
+        },
+        {
+            "paper":    "Clouds in Space",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447521340/nexus-wallpapers-cloudy-sky-fantasy-wallpaper_lh0lkm.jpg",
+            "url":      "http://i.imgur.com/ImlG1K3.jpg",
+            "number":   "51"
         }
     ]
 }
