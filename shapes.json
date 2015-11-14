@@ -392,6 +392,20 @@
             "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1446776853/stranded_in_space__low_poly_wallpaper__1920_x_1080_by_leprekhaun-d95lk91_bkec6u.jpg",
             "url":      "http://i.imgur.com/pfNb9VR.png",
             "number":   "55"
+        },
+        {
+            "paper":    "Polysplotch",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447521103/d9005bc4a02379b670d94ed6e9350648f9b1fbba_ei2dic.jpg",
+            "url":      "http://i.imgur.com/vcrkqpe.jpg",
+            "number":   "56"
+        },
+        {
+            "paper":    "Poly Sunset",
+            "author":   "",
+            "preview":  "http://res.cloudinary.com/dmk-applications/image/upload/t_media_lib_thumb/v1447521103/pattern-abstract-hd-wallpaper-1920x1080-2386_bm7t5c.png",
+            "url":      "http://i.imgur.com/T0OpAB8.png",
+            "number":   "57"
         }
     ]
 }
